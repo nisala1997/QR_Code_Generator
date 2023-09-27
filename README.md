@@ -4,14 +4,7 @@
 
 ![](https://github.com/x-hw/amazing-qr/blob/master/example/qrs0.jpg)
 
-![](https://github.com/x-hw/amazing-qr/blob/master/example/qrs1.jpg)
-
-![](https://github.com/x-hw/amazing-qr/blob/master/example/qrs2.jpg)
-
-![](https://github.com/x-hw/amazing-qr/blob/master/example/c_qrcode.gif)![](https://github.com/x-hw/amazing-qr/blob/master/example/daftpunktocat-guy_qrcode.gif)
-
-![](https://github.com/x-hw/amazing-qr/blob/master/example/zootopia_qrcode.gif)![](https://github.com/x-hw/amazing-qr/blob/master/example/daftpunktocat-guy_qrcode0.gif)
-
+![](https://github.com/x-hw/amazing-qr/blob/master/example/zootopia_qrcode.gif)
 ## Install
 
 ```python
